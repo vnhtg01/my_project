@@ -5,3 +5,7 @@ alo
 
 # chung ta se bo qua tat ca file co duoi la .log
 *.log
+
+# mình muốn bỏ qua file abc.xyz nhưng vẫn giữ myfile.xyz
+# sẽ chỉ bỏ qua các file .xyz ở trong git repo
+/*.xyz
