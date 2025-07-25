@@ -1,0 +1,7 @@
+# Day la comment, khong co tac dung ignore file hay folder
+
+# Git khong theo doi thuc muc `alo` va tat ca cac file trong thu muc `alo`
+alo
+
+# chung ta se bo qua tat ca file co duoi la .log
+*.log
